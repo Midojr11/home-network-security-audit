@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Sat Feb 28 22:50:42 2026 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -oN router-scan.txt 192.168.1.1
+Nmap scan report for router.home.local (192.168.1.1)
+Host is up (0.0052s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 14:21:03:6B:A9:D4 (Calix)
+
+# Nmap done at Sat Feb 28 22:50:51 2026 -- 1 IP address (1 host up) scanned in 9.26 seconds

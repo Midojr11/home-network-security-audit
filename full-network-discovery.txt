@@ -1,0 +1,31 @@
+# Nmap 7.95 scan initiated Mon Mar  2 12:08:46 2026 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sn -oN full-network-discovery.txt 192.168.1.0/24
+Nmap scan report for router.home.local (192.168.1.1)
+Host is up (0.0031s latency).
+MAC Address: 14:21:03:6B:A9:D4 (Calix)
+Nmap scan report for Mido-s-S22-Ultra.home.local (192.168.1.118)
+Host is up (0.14s latency).
+MAC Address: 26:D7:C5:94:26:74 (Unknown)
+Nmap scan report for security-container.home.local (192.168.1.128)
+Host is up (0.014s latency).
+MAC Address: 92:65:35:92:CB:2B (Unknown)
+Nmap scan report for ABDELDAIMM-MW10.home.local (192.168.1.183)
+Host is up (0.092s latency).
+MAC Address: F0:20:FF:E5:78:AB (Intel Corporate)
+Nmap scan report for 192.168.1.218
+Host is up (0.058s latency).
+MAC Address: 6C:0C:9A:82:0F:A1 (Amazon Technologies)
+Nmap scan report for parental-container.home.local (192.168.1.231)
+Host is up (0.028s latency).
+MAC Address: 92:65:35:57:B2:42 (Unknown)
+Nmap scan report for MDI.home.local (192.168.1.232)
+Host is up (0.026s latency).
+MAC Address: 92:65:35:FE:A1:A5 (Unknown)
+Nmap scan report for 192.168.1.233
+Host is up (0.025s latency).
+MAC Address: 44:D5:CC:5F:18:7A (Amazon Technologies)
+Nmap scan report for Samsung.home.local (192.168.1.240)
+Host is up (0.079s latency).
+MAC Address: 2C:99:75:6B:51:D4 (Samsung Electronics)
+Nmap scan report for MidoYNWA.home.local (192.168.1.241)
+Host is up.
+# Nmap done at Mon Mar  2 12:08:49 2026 -- 256 IP addresses (10 hosts up) scanned in 2.57 seconds
